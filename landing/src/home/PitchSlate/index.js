@@ -15,8 +15,7 @@ const PitchSlate = Vue.component('PitchSlate', {
           class={'highlights' + (vocalize ? ' visuallyhidden' : '')}
         >
           <li>
-            Highly skilled at progressive enhancement, design systems &amp; UI
-            Engineering.
+            HELLO WORLD
           </li>
           <li>
             Over a decade of experience building products for clients across
